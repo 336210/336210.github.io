@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Vrutika Guria
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=CFA Charterholder
 
-title2=2024 National Teaching Award Laureate
+title2=Pursuing an MBA at Hochschule Pforzheim
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Finance & Business Strategy
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=MBA at Hochschule Pforzheim, CFA Charter, Bachelor of Commerce from Narsee Monjee, India
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=guriavru@hs-pforzheim.de
+linkedin=http://www.linkedin.com/in/vrutikaguria
 
-about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
-about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
-about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
-about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
+about1=Vrutika Guria has 4 years of experience in the Asset Management & Valuations industry.
+about2=she scored in the top ten percentile internationally for the CFA level 1 and level 2 exams.
+about3=she is born and brought up in India, and is currently pursuing an MBA in Germany
+about4=
 
 phone=+886-2-2737-6754
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=Falkenstrasse, Pforzheim 75175, Deutschland
