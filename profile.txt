@@ -18,8 +18,8 @@ email=guriavru@hs-pforzheim.de
 linkedin=http://www.linkedin.com/in/vrutikaguria
 
 about1=Vrutika Guria has 4 years of experience in the Asset Management & Valuations industry.
-about2=she scored in the top ten percentile internationally for the CFA level 1 and level 2 exams.
-about3=she is born and brought up in India, and is currently pursuing an MBA in Germany
+about2=She has scored in the top ten percentile internationally for the CFA level 1 and level 2 exams.
+about3=She was born and brought up in India, and is currently pursuing an MBA in Germany
 about4= 
 
 phone=+886-2-2737-6754
